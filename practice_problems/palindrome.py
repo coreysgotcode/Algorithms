@@ -19,6 +19,6 @@ def is_palindrome(word: str) -> bool:
 
     return True
 
-if __name__ == "main":
+if __name__ == "__main__":
   print(is_palindrome("racecar")) 
   
